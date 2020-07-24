@@ -96,7 +96,7 @@ img{
 .showcase{
     grid-area: showcase;
     min-height: 500px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(/gridOne/assets/img/pic2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(img/pic2.jpg);
     background-size: cover;
     background-position: center;
     padding: 3rem;
